@@ -16,9 +16,7 @@
 
 *.userosscache
 
-*.sln.docstates
-
-
+# *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 
@@ -532,9 +530,7 @@ paket-files/
 
 .idea/
 
-*.sln.iml
-
-
+# *.sln.iml
 
 # CodeRush
 
