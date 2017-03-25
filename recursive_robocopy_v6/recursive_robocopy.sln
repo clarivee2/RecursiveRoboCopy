@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive_robocopy", "recursive_robocopy\recursive_robocopy.csproj", "{006AC0FA-A696-4C1E-8A3D-E7ED37F2BB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive_robocopytests", "recursive_robocopytests\recursive_robocopytests.csproj", "{33E5BB7B-1D79-4A0D-A8C4-7FB0AF88D3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006AC0FA-A696-4C1E-8A3D-E7ED37F2BB4D}.Debug|x86.ActiveCfg = Debug|x86
+		{006AC0FA-A696-4C1E-8A3D-E7ED37F2BB4D}.Debug|x86.Build.0 = Debug|x86
+		{006AC0FA-A696-4C1E-8A3D-E7ED37F2BB4D}.Release|x86.ActiveCfg = Release|x86
+		{006AC0FA-A696-4C1E-8A3D-E7ED37F2BB4D}.Release|x86.Build.0 = Release|x86
+		{33E5BB7B-1D79-4A0D-A8C4-7FB0AF88D3CF}.Debug|x86.ActiveCfg = Debug|x86
+		{33E5BB7B-1D79-4A0D-A8C4-7FB0AF88D3CF}.Debug|x86.Build.0 = Debug|x86
+		{33E5BB7B-1D79-4A0D-A8C4-7FB0AF88D3CF}.Release|x86.ActiveCfg = Release|x86
+		{33E5BB7B-1D79-4A0D-A8C4-7FB0AF88D3CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
